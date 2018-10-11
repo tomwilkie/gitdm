@@ -2665,7 +2665,7 @@ Chris Lewis: cflewis!google.com
 Chris Machler: chris.machler!evergreenitco.com
 	TEKsystems
 Chris Marchbanks: csmarchbanks!gmail.com
-	FreschTracks
+	FreshTracks.io
 	Relly Softtware until 2018-01-01
 	Thetus Corporation until 2015-10-01
 	Pipeworks Software until 2014-01-01
@@ -3515,7 +3515,7 @@ Dave Zavala: dzavala!us.ibm.com
 	IBM
 David*: comxd!users.noreply.github.com
 	Microsoft
-David*: david.kaltschmidt!gmail.com
+David Kaltschmidt: david.kaltschmidt!gmail.com
 	Grafana Labs
 	Kausal until 2018-04-06
 	Weaveworks until 2017-08-18
